@@ -58,3 +58,13 @@ function buttonHundred() {
     //Sends alert when button is clicked on
     alert("You added 100 to the total!");
 }
+
+//Reset button to reset the counter to 0
+function buttonReset() {
+    //Changes counter value to 0
+    data = 0;
+    //Sends result to h2 tag
+    document.getElementById("counting").innerText = data;
+    //Sends alert when button is clicked on
+    alert("You have reset the counter!");
+}
