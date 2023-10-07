@@ -1,7 +1,7 @@
 /* General style rules */
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: green;
+    background-color: #ffffff;
     text-align: center;
 }
 
@@ -12,14 +12,40 @@ button {
     padding: 5px 10px;
     margin: 10px;
     font-size: 30px;
+    border: 0;
 }
 
-/* Change style on all buttons when mouse hover over */
-button:hover {
-    background-color: blue;
+/* Change background color for every button */
+#button1 {
+    background-color: #FFFF00;
+}
+
+#button5 {
+    background-color: #6488EA;
+}
+
+#button10 {
+    background-color: #90EE90;
+}
+
+#button20 {
+    background-color: #FFB6C1;
+}
+
+#button50 {
+    background-color: #FFD580;
+}
+
+#button100 {
+    background-color: #C4A484;
+}
+
+#reset-button {
+    background-color: #ff0000;
 }
 
 /* Change reset button style when mouse hover over */
 #reset-button:hover {
-    background-color: red;
+    background-color: #800000;
+    color: #ffffff;
 }
