@@ -45,6 +45,10 @@ button {
     background-color: #ff0000;
 }
 
+#reset {
+    margin: 40px;
+}
+
 /* Change reset button style when mouse hover over */
 #reset-button:hover {
     background-color: #800000;
