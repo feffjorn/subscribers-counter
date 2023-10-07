@@ -37,6 +37,12 @@ These special events include subathons, spin wheel evenings and other viewer com
 
 ## Testing
 
+- I tested that this page works in different browsers: Chrome, Firefox, Microsoft Edge
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+- I confirmed that the header and counter are readable and easy to understand.
+- I have confirmed that the counter works, counts correctly, gives the right result and gives the right alerts for every button.
+- I have confirmed that the reset button works and brings the counter down to 0.
+
 ### Validator Testing
 
 - HTML
