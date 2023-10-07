@@ -45,6 +45,7 @@ button {
     background-color: #ff0000;
 }
 
+/* Margin between reset button and the other buttons */
 #reset {
     margin: 40px;
 }
