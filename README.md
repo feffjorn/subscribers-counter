@@ -1,8 +1,16 @@
 # Subscriber Counter
 
+The subscriber counter is a website consisting of a counter to help gaming streamers quickly count the total gifted subscriptions from viewers during special events.
+These special events include subathons, spin wheel evenings and other viewer competitions created by the content creators.
+
 ![Accessability rates bottom](https://fekadon.github.io/subscriber_counter/media/subscriber_counter_mockup.png)
 
 ## Features
+
+### Existing Features
+
+- The Subscriber Counter Heading
+     Featured at the top of the page, the Subscriber Counter heading is easy to see for the easy. Upon viewing the page, the user will get a feel for what the websites purpose is.
 
 ### Header
 
@@ -32,10 +40,11 @@ Accessibility
 ### Unfixed Bugs
 
 ## Deployment
+
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-- In the GitHub repository, navigate to the Settings tab
-- From the source section drop-down menu, select the Master Branch
-- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+    - In the GitHub repository, navigate to the Settings tab
+    - From the source section drop-down menu, select the Master Branch
+    - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - [Subscriber Counter](https://fekadon.github.io/subscribers-counter/)
 
