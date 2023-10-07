@@ -11,7 +11,7 @@ These special events include subathons, spin wheel evenings and other viewer com
 
 - The Subscribers Counter Heading
 
-    - Featured at the top of the page, the Subscribers Counter heading is easy to see for the easy. Upon viewing the page, the user will get a feel for what the websites purpose is.
+    - Featured at the top of the page, the Subscribers Counter heading is easy to see. Upon viewing the page, the user will get a feel for what the websites purpose is.
 
 ![Subscribers Counter Heading](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_heading.png)
 
@@ -55,6 +55,11 @@ These special events include subathons, spin wheel evenings and other viewer com
         - The most complex function has a cyclomatic complexity value of 1 while the median is 1.
 
 - Accessibility
+    - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
+
+![Accessability rates](https://fekadon.github.io/subscribers-counter/media/accessability_rates.png)
+
+![Accessability rates bottom](https://fekadon.github.io/subscribers-counter/media/accessability_bottom.png)
 
 ### Unfixed Bugs
 
