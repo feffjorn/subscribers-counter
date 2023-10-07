@@ -4,3 +4,22 @@ body {
     background-color: green;
     text-align: center;
 }
+
+/* Style for all buttons */
+button {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px 95px 15px;
+    margin: 30px;
+    font-size: 30px;
+}
+
+/* Change style on all buttons when mouse hover over */
+button:hover {
+    background-color: blue;
+}
+
+/* Change reset button style when mouse hover over */
+#reset-button:hover {
+    background-color: red;
+}
