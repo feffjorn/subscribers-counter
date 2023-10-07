@@ -3,11 +3,9 @@
 The subscribers counter is a website consisting of a counter to help gaming streamers quickly count the total gifted subscriptions from viewers during special events.
 These special events include subathons, spin wheel evenings and other viewer competitions created by the content creators.
 
-![Subscribers Counter Mockup](https://fekadon.github.io/subscribers_counter/media/subscriber_counter_mockup.png)
+![Subscribers Counter Mockup](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup.png)
 
 ## Features
-
-### Existing Features
 
 ### Header
 
@@ -15,25 +13,27 @@ These special events include subathons, spin wheel evenings and other viewer com
 
     - Featured at the top of the page, the Subscribers Counter heading is easy to see for the easy. Upon viewing the page, the user will get a feel for what the websites purpose is.
 
-![Subscribers Counter Heading](https://fekadon.github.io/subscribers_counter/media/subscriber_counter_heading.png)
+![Subscribers Counter Heading](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_heading.png)
 
 ### Counter
 
     - This section shows the result of the counting and that it will count addition.
 
-![Subscribers Counter Counter](https://fekadon.github.io/subscribers_counter/media/subscribers_counter_counter.png)
+![Subscribers Counter Counter](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_counter.png)
 
 ### Buttons
 
     - Buttons with a pre set value, the same values that are used on streamers webpage.
+    - Every button returns a alert message telling the user the value of the button that has been added to the counter.
 
-![Subscribers Counter Buttons](https://fekadon.github.io/subscribers_counter/media/subscribers_counter_buttons.png)
+![Subscribers Counter Buttons](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_buttons.png)
 
 ### Reset Button
 
-    - A reset button for easy reset and start counting the next person.
+    - A reset button for easy reset of counter and start counting the next person.
+    - Button returns a alert message telling the user that the counter is reset.
 
-![Subscribers Counter Reset Button](https://fekadon.github.io/subscribers_counter/media/subscribers_counter_reset.png)
+![Subscribers Counter Reset Button](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_reset.png)
 
 ## Testing
 
@@ -54,9 +54,11 @@ These special events include subathons, spin wheel evenings and other viewer com
         - Largest function has 3 statements in it, while the median is 3.
         - The most complex function has a cyclomatic complexity value of 1 while the median is 1.
 
-Accessibility
+- Accessibility
 
 ### Unfixed Bugs
+
+No unfixed bugs
 
 ## Deployment
 
@@ -71,4 +73,13 @@ The live link can be found here - [Subscriber Counter](https://fekadon.github.io
 
 ### Content
 
+- All content was written by the developer.
+
 ### Media
+
+The favicon was generated using the following graphics from Twitter Twemoji:
+
+    - Graphics Title: 2795.svg
+    - Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
+    - Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/2795.svg
+    - Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
