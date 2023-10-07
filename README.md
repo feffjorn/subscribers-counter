@@ -11,7 +11,10 @@
 ## Testing
 
 ### Validator Testing
-HTML
+
+- HTML
+- 
+
 CSS
 JavaScript
 Accessibility
