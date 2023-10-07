@@ -1,22 +1,39 @@
-# Subscriber Counter
+# Subscribers Counter
 
-The subscriber counter is a website consisting of a counter to help gaming streamers quickly count the total gifted subscriptions from viewers during special events.
+The subscribers counter is a website consisting of a counter to help gaming streamers quickly count the total gifted subscriptions from viewers during special events.
 These special events include subathons, spin wheel evenings and other viewer competitions created by the content creators.
 
-![Subscriber Counter Mockup](https://fekadon.github.io/subscriber_counter/media/subscriber_counter_mockup.png)
+![Subscribers Counter Mockup](https://fekadon.github.io/subscribers_counter/media/subscriber_counter_mockup.png)
 
 ## Features
 
 ### Existing Features
 
-- The Subscriber Counter Heading
-     Featured at the top of the page, the Subscriber Counter heading is easy to see for the easy. Upon viewing the page, the user will get a feel for what the websites purpose is.
-
-![Subscriber Counter Heading](https://fekadon.github.io/subscriber_counter/media/subscriber_counter_heading.png)
-
 ### Header
 
+- The Subscribers Counter Heading
+
+    - Featured at the top of the page, the Subscribers Counter heading is easy to see for the easy. Upon viewing the page, the user will get a feel for what the websites purpose is.
+
+![Subscribers Counter Heading](https://fekadon.github.io/subscribers_counter/media/subscriber_counter_heading.png)
+
 ### Counter
+
+    - This section shows the result of the counting and that it will count addition.
+
+![Subscribers Counter Counter](https://fekadon.github.io/subscribers_counter/media/subscribers_counter_counter.png)
+
+### Buttons
+
+    - Buttons with a pre set value, the same values that are used on streamers webpage.
+
+![Subscribers Counter Buttons](https://fekadon.github.io/subscribers_counter/media/subscribers_counter_buttons.png)
+
+### Reset Button
+
+    - A reset button for easy reset and start counting the next person.
+
+![Subscribers Counter Reset Button](https://fekadon.github.io/subscribers_counter/media/subscribers_counter_reset.png)
 
 ## Testing
 
