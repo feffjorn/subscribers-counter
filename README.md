@@ -13,10 +13,20 @@
 ### Validator Testing
 
 - HTML
-- 
+    - One error was returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffekadon.github.io%2Fsubscribers-counter%2F)
+    - "Warning Empty heading" ignored because it is meant to be empty.
 
-CSS
-JavaScript
+- CSS
+    - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=sv&profile=css3svg&uri=https%3A%2F%2Ffekadon.github.io%2Fsubscribers-counter%2F&usermedium=all&vextwarning=&warning=1)
+
+- JavaScript
+    - No errors were found when passing through the official [Jshint validator](https://jshint.com/)
+        - The following metrics were returned:
+        - There are 7 functions in this file.
+        - Function with the largest signature takes 0 arguments, while the median is 0.
+        - Largest function has 3 statements in it, while the median is 3.
+        - The most complex function has a cyclomatic complexity value of 1 while the median is 1.
+
 Accessibility
 
 ### Unfixed Bugs
