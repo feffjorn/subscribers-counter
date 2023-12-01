@@ -25,6 +25,12 @@ These special events include subathons, spin wheel evenings and other viewer com
 
 ![Subscribers Counter Heading](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_heading.png)
 
+### Information on main page
+
+- Informational text on the main page about what the website is all about.
+
+![Subscribers Counter Information](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_infotext.png)
+
 ### Counter
 
 - This section shows the result of the counting and that it will count addition.
@@ -100,7 +106,7 @@ The live link can be found here - [Subscriber Counter](https://fekadon.github.io
 
 The favicon was generated using the following graphics from Twitter Twemoji:
 
-    - Graphics Title: 2795.svg
-    - Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
-    - Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/2795.svg
-    - Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+- Graphics Title: 2795.svg
+- Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
+- Graphics Source: https://github.com/twitter/twemoji/blob/master/assets/svg/2795.svg
+- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
