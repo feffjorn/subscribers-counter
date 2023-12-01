@@ -21,6 +21,7 @@ These special events include subathons, spin wheel evenings and other viewer com
 - The Subscribers Counter Heading
 
     - Featured at the top of the page, the Subscribers Counter heading is easy to see. Upon viewing the page, the user will get a feel for what the websites purpose is.
+    - Also with a navigation for the user to easy move between website info and counter.
 
 ![Subscribers Counter Heading](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_heading.png)
 
