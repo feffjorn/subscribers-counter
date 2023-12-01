@@ -35,21 +35,21 @@ These special events include subathons, spin wheel evenings and other viewer com
 
 - This section shows the result of the counting and that it will count addition.
 
-![Subscribers Counter Counter](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_counter.png)
+![Subscribers Counter Counter](https://github.io/fekadon/subscribers-counter/media/subscribers_counter_counter.png)
 
 ### Buttons
 
 - Buttons with a pre set value, the same values that are used on streamers webpage.
 - Every button returns a alert message telling the user the value of the button that has been added to the counter.
 
-![Subscribers Counter Buttons](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_buttons.png)
+![Subscribers Counter Buttons](https://github.io/fekadon/subscribers-counter/media/subscribers_counter_buttons.png)
 
 ### Reset Button
 
 - A reset button for easy reset of counter and start counting the next person.
 - Button returns a alert message telling the user that the counter is reset.
 
-![Subscribers Counter Reset Button](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_reset.png)
+![Subscribers Counter Reset Button](https://github.io/fekadon/subscribers-counter/media/subscribers_counter_reset.png)
 
 ## Testing
 
@@ -79,7 +79,9 @@ These special events include subathons, spin wheel evenings and other viewer com
 - Accessibility
     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 
-![Accessability rates](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_rates.png)
+![Accessability rates Index page](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_rates_index.png)
+
+![Accessability rates Counter page](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_rates_counter.png)
 
 ![Accessability rates bottom](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_bottom.png)
 
