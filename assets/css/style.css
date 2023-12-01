@@ -6,6 +6,18 @@ body {
     text-align: center;
 }
 
+/* Unvisited and visited links */
+a:link, a:visited {
+    color: #1AA7EC;
+    text-decoration: none;
+}
+
+/* Mouse over link */
+a:hover {
+    color: #1AA7EC;
+    text-decoration: underline;
+}
+
 /* Style for all buttons */
 button {
     background-color: #ffffff;
