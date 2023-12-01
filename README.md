@@ -3,14 +3,16 @@
 The subscribers counter is a website consisting of a counter to help gaming streamers quickly count the total gifted subscriptions from viewers during special events.
 These special events include subathons, spin wheel evenings and other viewer competitions created by the content creators.
 
+[Here is the live version](https://fekadon.github.io/subscribers-counter/index.html)
+
+
 - Home Page
 
-![Subscribers Counter Mockup](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup.png)
-
+![Subscribers Counter Mockup Index](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup.png)
 
 - Counter Page
 
-![Subscribers Counter Mockup](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup2.png)
+![Subscribers Counter Mockup Counter](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup2.png)
 
 ## Features
 
