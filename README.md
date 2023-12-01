@@ -79,7 +79,11 @@ These special events include subathons, spin wheel evenings and other viewer com
 - Accessibility
     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 
+- Index Page
+
 ![Accessability rates Index page](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_rates_index.png)
+
+- Counter Page
 
 ![Accessability rates Counter page](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_rates_counter.png)
 
