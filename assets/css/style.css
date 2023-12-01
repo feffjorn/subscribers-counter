@@ -6,6 +6,11 @@ body {
     text-align: center;
 }
 
+/* Header */
+header {
+    margin: 40px;
+}
+
 /* Unvisited and visited links */
 a:link, a:visited {
     color: #1AA7EC;
