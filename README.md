@@ -67,10 +67,10 @@ These special events include subathons, spin wheel evenings and other viewer com
 - JavaScript
     - No errors were found when passing through the official [Jshint validator](https://jshint.com/)
         - The following metrics were returned:
-        - There are 7 functions in this file.
-        - Function with the largest signature takes 0 arguments, while the median is 0.
-        - Largest function has 3 statements in it, while the median is 3.
-        - The most complex function has a cyclomatic complexity value of 1 while the median is 1.
+          - There are 7 functions in this file.
+          - Function with the largest signature takes 0 arguments, while the median is 0.
+          - Largest function has 3 statements in it, while the median is 3.
+          - The most complex function has a cyclomatic complexity value of 1 while the median is 1.
 
 - Accessibility
     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
