@@ -5,11 +5,11 @@ These special events include subathons, spin wheel evenings and other viewer com
 
 - Home Page
 
-![Subscribers Counter Mockup Index](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup.png)
+![Subscribers Counter Mockup Index](https://feffjorn.github.io/subscribers-counter/media/subscriber_counter_mockup.png)
 
 - Counter Page
 
-![Subscribers Counter Mockup Counter](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_mockup2.png)
+![Subscribers Counter Mockup Counter](https://feffjorn.github.io/subscribers-counter/media/subscriber_counter_mockup2.png)
 
 ## Features
 
@@ -20,33 +20,33 @@ These special events include subathons, spin wheel evenings and other viewer com
     - Featured at the top of the page, the Subscribers Counter heading is easy to see. Upon viewing the page, the user will get a feel for what the websites purpose is.
     - Also with a navigation for the user to easy move between website info and counter.
 
-![Subscribers Counter Heading](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_heading.png)
+![Subscribers Counter Heading](https://feffjorn.github.io/subscribers-counter/media/subscriber_counter_heading.png)
 
 ### Information on main page
 
 - Informational text on the main page about what the website is all about.
 
-![Subscribers Counter Information](https://fekadon.github.io/subscribers-counter/media/subscriber_counter_infotext.png)
+![Subscribers Counter Information](https://feffjorn.github.io/subscribers-counter/media/subscriber_counter_infotext.png)
 
 ### Counter
 
 - This section shows the result of the counting and that it will count addition.
 
-![Subscribers Counter Counter](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_counter.png)
+![Subscribers Counter Counter](https://feffjorn.github.io/subscribers-counter/media/subscribers_counter_counter.png)
 
 ### Buttons
 
 - Buttons with a pre set value, the same values that are used on streamers webpage.
 - Every button returns a alert message telling the user the value of the button that has been added to the counter.
 
-![Subscribers Counter Buttons](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_buttons.png)
+![Subscribers Counter Buttons](https://feffjorn.github.io/subscribers-counter/media/subscribers_counter_buttons.png)
 
 ### Reset Button
 
 - A reset button for easy reset of counter and start counting the next person.
 - Button returns a alert message telling the user that the counter is reset.
 
-![Subscribers Counter Reset Button](https://fekadon.github.io/subscribers-counter/media/subscribers_counter_reset.png)
+![Subscribers Counter Reset Button](https://feffjorn.github.io/subscribers-counter/media/subscribers_counter_reset.png)
 
 ## Testing
 
@@ -75,9 +75,9 @@ These special events include subathons, spin wheel evenings and other viewer com
 - Accessibility
     - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools
 
-![Accessability rates Index page](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_rates.png)
+![Accessability rates Index page](https://github.com/feffjorn/subscribers-counter/blob/main/media/accessability_rates.png)
 
-![Accessability rates bottom](https://github.com/fekadon/subscribers-counter/blob/main/media/accessability_bottom.png)
+![Accessability rates bottom](https://github.com/feffjorn/subscribers-counter/blob/main/media/accessability_bottom.png)
 
 ### Unfixed Bugs
 
@@ -90,7 +90,7 @@ No unfixed bugs
     - From the source section drop-down menu, select the Master Branch
     - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - [Subscriber Counter](https://fekadon.github.io/subscribers-counter/)
+The live link can be found here - [Subscriber Counter](https://feffjorn.github.io/subscribers-counter/)
 
 ## Credits
 
